@@ -1,4 +1,4 @@
-# Back to the Future: Toward a Hybrid Architecture for Ad hoc Teamwork
+# Hybrid Architecture for Ad hoc Teamwork
 
 This folder includes the video recordings of some representative experimental runs, each corresponding to one game/episode. Each experiment begins with three guards (green) and three attackers (red) deployed in the fort attack simulation environment. In each experiment, the proposed 'Ad hoc' agent is guard number 1 unless stated otherwise. 
 
