@@ -1,4 +1,4 @@
-# Back to the Future: Toward a Hybrid Architecture for Ad hoc Teamwork
+# Hybrid Architecture for Ad hoc Teamwork
 
 ## Folder structure
 

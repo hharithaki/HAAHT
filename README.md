@@ -1,4 +1,4 @@
-# Back to the Future: Toward a Hybrid Architecture for Ad hoc Teamwork
+# Hybrid Architecture for Ad hoc Teamwork
 
 This repository contains the supplementary materials for the above paper (#7582), which presents an architecture for ad hoc teamwork that combines knowledge-based reasoning with data-driven learning.
 
